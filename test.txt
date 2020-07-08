@@ -1,1 +1,2 @@
 This is the master
+Second line added by master
