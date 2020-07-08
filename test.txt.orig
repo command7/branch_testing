@@ -1,6 +1,7 @@
 This is the master
+<<<<<<< HEAD
 Second line added by master
+=======
 
 Third line by radhvija branch
-Fourth line by radhvija branch
-Fifth line
+>>>>>>> Third line by radhvija
